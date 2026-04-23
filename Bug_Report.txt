@@ -1,0 +1,11 @@
+BUG01 - Invalid login API returns unclear error message
+Severity: Medium
+Status: Open
+
+BUG02 - Product API response time is high
+Severity: Low
+Status: Open
+
+BUG03 - Delete API returns wrong status code
+Severity: High
+Status: In Progress
