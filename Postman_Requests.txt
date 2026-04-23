@@ -1,0 +1,7 @@
+GET https://dummyjson.com/products
+
+POST https://dummyjson.com/auth/login
+
+PUT https://dummyjson.com/products/1
+
+DELETE https://dummyjson.com/products/1
