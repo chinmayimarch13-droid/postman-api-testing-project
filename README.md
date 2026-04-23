@@ -1,4 +1,5 @@
 # postman-api-testing-project
+
 ## Overview
 This repository contains API testing practice using Postman.
 
@@ -12,3 +13,5 @@ This repository contains API testing practice using Postman.
 - API Testing
 - Status Code Validation
 - JSON Response Validation
+## Authore
+- Chinmayii
